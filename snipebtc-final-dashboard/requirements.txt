@@ -1,0 +1,6 @@
+streamlit==1.35.0
+plotly==5.22.0
+scikit-learn==1.5.0
+python-binance==1.0.17
+streamlit-autorefresh==0.0.4
+torch==2.3.0
