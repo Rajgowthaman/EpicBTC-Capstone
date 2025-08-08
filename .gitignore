@@ -128,3 +128,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+Data scrapper/btc_scraped_minutely_2021_to_2025.csv
